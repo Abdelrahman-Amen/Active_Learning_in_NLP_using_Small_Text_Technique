@@ -1,4 +1,4 @@
-# Active_Learning_in_NLP_using_Small_Text_Technique
+# Active Learning in NLP using Small Text Technique
 
 # What is Small-Text? 🎯
 
